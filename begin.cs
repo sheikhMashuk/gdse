@@ -1,0 +1,1 @@
+var meassage = "Hello WOlrd!";
